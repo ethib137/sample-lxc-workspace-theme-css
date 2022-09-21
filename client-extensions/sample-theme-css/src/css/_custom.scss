@@ -1,5 +1,3 @@
-@import 'sassy-inputs/sass/main';
+@import 'classic_custom';
 
-body {
-	background-color: aquamarine;
-}
+@import 'dialect/index';
